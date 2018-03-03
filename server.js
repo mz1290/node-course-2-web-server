@@ -1,6 +1,14 @@
+// ===========================
+// 3RD PARTY MODULE STUFF
+// ===========================
+
 const express   = require('express');
 const hbs       = require('hbs');
 const fs        = require('fs');
+
+// ============================
+// END 3RD PARTY MODULE STUFF
+// ============================
 
 var app = express();
 
